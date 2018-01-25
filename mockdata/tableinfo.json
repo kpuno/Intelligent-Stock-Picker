@@ -1,0 +1,51 @@
+{
+    "tableinfo": [{
+            "symbol": "GOOG",
+            "companyname": "Digital Power Corporation",
+            "price": "$4.75",
+            "change": "29.92%"
+        },
+        {
+            "symbol": "IBM",
+            "companyname": "IBM Company",
+            "price": "$28.85",
+            "change": "0.28%"
+        },
+        {
+            "symbol": "FAKE",
+            "companyname": "Fake Technology Inc",
+            "price": "$41.43",
+            "change": "0.52%"
+        },
+        {
+            "symbol": "DATA",
+            "companyname": "Data Company",
+            "price": "$17.63",
+            "change": "0.76%"
+        },
+        {
+            "symbol": "MICRO",
+            "companyname": "Micro Company",
+            "price": "$13.31",
+            "change": "1.76%"
+        },
+        {
+            "symbol": "SOFT",
+            "companyname": "Soft Electric Company",
+            "price": "$17.63",
+            "change": "0.32%"
+        },
+        {
+            "symbol": "APPL",
+            "companyname": "Apple",
+            "price": "$7.63",
+            "change": "0.16%"
+        },
+        {
+            "symbol": "LCBO",
+            "companyname": "LCBO",
+            "price": "$87.63",
+            "change": "5.76%"
+        }
+    ]
+}

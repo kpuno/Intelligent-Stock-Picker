@@ -1,0 +1,7 @@
+{
+    "KDJ": ["T", "TK"],
+    "BOLL": ["AMD", "MD"],
+    "SMA" : ["A", "IBM"],
+    "MACD": ["GOOG", "IBM"],
+    "RSI" : ["NFG", "NOV"]
+}
